@@ -1,0 +1,14 @@
+{
+  "name": "url-en-parser",
+  "version": "0.0.1",
+  "description": "parse hexo source name to english url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mrxf",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
